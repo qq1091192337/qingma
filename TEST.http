@@ -1,0 +1,17 @@
+GET http://zsjypt.cdn.bcebos.com/media/zm-46d42ca4-f205-46b1-b333-cec8302da0f3.mp4
+Host:qmzxtest.17el.cn
+Content-Type:application/json
+Connection:	keep-alive
+Accept:	*/*
+User-Agent:	Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E217 MicroMessenger/6.8.0(0x16080000) NetType/WIFI Language/en Branch/Br_trunk MiniProgramEnv/Mac
+Referer:https://servicewechat.com/wx528f701ffa6ac04a/58/page-frame.html
+Accept-Language:zh-cn
+Accept-Encoding:gzip, deflate, br
+
+###
+POST https://qmzxtest.17el.cn//phoneAction_timeGap.action
+Content-Type: application/x-www-form-urlencoded
+
+id=99&content=new-element
+
+###
